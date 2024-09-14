@@ -254,4 +254,6 @@ This achieved a mean Rouge of 0.05481997786498651.
 - A bias inclined to predict some words (e.g. great, good) is noticeable. Probably a sign of overfitting. Balancing the dataset in order to have too many positive reviews may reduce that bias.
 - Using more data may help to enhance performance.
 
-** You can check the code in GitHub.
+<br/>
+
+**You can check the code in [GitHub](https://github.com/bryancalisto/nlp-labs/blob/main/final-project/nlp_final_project.ipynb).**
